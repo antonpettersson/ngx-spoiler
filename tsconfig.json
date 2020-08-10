@@ -6,5 +6,12 @@
 */
 {
   "files": [],
-  "references": []
+  "references": [
+    {
+      "path": "./projects/spoiler/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/spoiler/tsconfig.spec.json"
+    }
+]
 }
