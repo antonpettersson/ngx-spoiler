@@ -1,0 +1,23 @@
+{
+  "name": "spoiler",
+  "version": "0.0.1",
+  "description": "A simple Angular directive that masks an element till it's hovered over.",
+  "author": "Anton Pettersson",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "spoiler",
+    "typescript"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^10.0.6",
+    "@angular/core": "^10.0.6"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
